@@ -40,7 +40,7 @@ My outputs include model frameworks, deployment strategies, and tools shared wit
 - **B.S.** in Chemistry, Anhui University, 2008 - 2012 
 
 <div class="contact-box">
-## Contact
+  ## Contact
 
   
   <p>Email: <a href="mailto:toby@toby-huang.com" target="_blank" rel="noopener noreferrer">toby@toby-huang.com</a></p>
