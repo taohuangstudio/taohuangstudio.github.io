@@ -5,39 +5,45 @@ permalink: /about.html
 description: About Tao Huang — AI-driven battery research and energy storage.
 ---
 
-## About
+<div style="display: flex; justify-content: center; margin-bottom: 1rem;">
+  <div style="text-align: center;">
+    <img src="https://toby-huang.com/wp-content/uploads/DSC02915-edited.jpeg" alt="Tao Huang" class="profile-photo" />
+    <div style="margin-top: 8px; font-weight: 600; font-size: 1.1rem;">Tao Huang</div>
+  </div>
+</div>
 
-I specialize in AI-driven predictive modeling for electrochemical energy storage systems, with a particular focus on long-term capacity evolution forecasting and scalable battery deployment. My work integrates machine learning, electrochemical insight, and system-level feasibility to accelerate the design and deployment of reliable, high-cycle-life battery technologies in real-world contexts.
+I lead a cross-disciplinary research and deployment program that tightly couples electrochemical insight, artificial intelligence, and practical system implementation to accelerate scalable energy storage in emerging markets. My research interests lie at the intersection of AI-enhanced battery degradation forecasting, data-physics hybrid modeling, and large-scale energy infrastructure deployment. I develop methodologies that extract maximal predictive power from limited early-cycle data to forecast specific capacity trajectories and long-term performance, while integrating large language models as generative and interpretive tools to explore, propose, and parameterize novel electrode and cell geometries.
 
-### Research Experience
+Currently I am directing a flagship energy storage deployment project in Indonesia, overseeing the technical design, localized production roadmap, and financial-technical integration required to realize resilient, high-cycle-life battery systems. This effort combines system-level feasibility, supply chain localization, and AI-informed performance targeting to ensure sustainable and cost-effective scale-up.
 
-- Lead Researcher, Large-scale Energy Storage Deployment Project, Indonesia — 2023–Present  
-- Research Scientist, AI-assisted Battery Lifetime Prediction — 2022–2023  
-- Postdoctoral Fellow, Electrochemical Modeling & Machine Learning Integration — 2020–2022  
-- Ph.D. Candidate, Battery Materials and Degradation Modeling — [University], [Year]  
+Methodologically, my work spans convolutional and ensemble machine learning architectures with uncertainty quantification, physics-informed constraints, and interactive LLM-driven design workflows that translate qualitative electrochemical phenomena into quantitative simulation inputs. I collaborate with engineers, data scientists, and regional implementation partners to bridge the gap between conceptual models and operational systems.
 
-### Selected Skills & Methods
+My outputs include model frameworks, deployment strategies, and tools shared with the broader research community, and have been propagated through peer-reviewed publications, open-source releases, and institutional collaborations.
 
-- AI and Machine Learning: CNNs, XGBoost, Random Forests, SVR, LLM fine-tuning for degradation forecasting  
-- Electrochemical Modeling: Capacity fade modeling, state-of-health prediction, COMSOL-assisted simulations  
-- Data Analysis: Robust scaling, cross-validation, uncertainty-aware predictions  
-- System Deployment: Feasibility studies, financial modeling for battery production and grid integration  
+## Research Experience
 
-### Education
+- Lead, Large-scale Energy Storage Deployment Project in Indonesia — system design, local production roadmap, and financial-technical integration.  
+- Principal Investigator / Model Architect for AI-based battery capacity prediction — building models that extrapolate long-term behavior from sparse early signals.  
+- Developer of LLM-assisted electrochemical design frameworks — bridging language model reasoning with physics-based simulation.  
+- Previous roles include electrochemical R&D for high-reliability battery systems, prototype fabrication, and degradation mechanism analysis.
 
-- Ph.D. in Electrochemical Energy Systems, [University of Technology Sydney], [2021 - 2024]  
-- M.S. in Materials Science / Energy Storage, [Shanghai Jiao Tong University], [2024 - 2017]  
-- B.S. in [Chemistry], [Anhui University], [2008 - 2012]  
+## Selected Skills & Methods
 
-### Honors & Recognition
+- **Electrochemical Systems:** Battery materials, capacity fade mechanisms, electrode architecture, long-cycle stability.  
+- **Machine Learning & AI:** CNNs, gradient-boosted models, ensemble learning, uncertainty-aware regression, small-sample generalization.  
+- **LLM Integration:** Prompt engineering, design space exploration, translating qualitative intuition into quantitative simulation inputs.  
+- **System Deployment:** Feasibility modeling, localized manufacturing planning, financial-technical alignment for emerging markets.  
+- **Data Analytics:** Robust preprocessing, cross-validation strategies, performance metrics (e.g., CCC, RMSE), model calibration.  
+- **Software & Tools:** Python ecosystem (scikit-learn, TensorFlow/PyTorch), COMSOL coupling, Git-based reproducibility workflows.
 
-- National Research Grant / Fellowship  
-- Best Paper Award  
-- Industry Collaboration Recognition  
+## Education
 
+- **Ph.D.** in Electrochemical Energy Systems, University of Technology Sydney, 2021 - 2024 
+- **M.S.** in Materials Science / Energy Storage, Shanghai Jiao Tong University, 2024 - 2017
+- **B.S.** in Chemistry, Anhui University, 2008 - 2012 
+
+## Contact
 <div class="contact-box">
-### Contact
-
 - Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)  
 - LinkedIn: [Tao (Toby) Huang](https://www.linkedin.com/in/toby-huang-083b441a4)  
 - GitHub: [taohuangstudio](https://github.com/taohuangstudio)
