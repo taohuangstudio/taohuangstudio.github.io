@@ -1,0 +1,42 @@
+---
+layout: main
+title: About
+permalink: /about.html
+description: About Tao Huang — AI-driven battery research and energy storage.
+---
+
+## About
+
+I specialize in AI-driven predictive modeling for electrochemical energy storage systems, with a particular focus on long-term capacity evolution forecasting and scalable battery deployment. My work integrates machine learning, electrochemical insight, and system-level feasibility to accelerate the design and deployment of reliable, high-cycle-life battery technologies in real-world contexts.
+
+### Research Experience
+
+- Lead Researcher, Large-scale Energy Storage Deployment Project, Indonesia — 2023–Present  
+- Research Scientist, AI-assisted Battery Lifetime Prediction — 2022–2023  
+- Postdoctoral Fellow, Electrochemical Modeling & Machine Learning Integration — 2020–2022  
+- Ph.D. Candidate, Battery Materials and Degradation Modeling — [University], [Year]  
+
+### Selected Skills & Methods
+
+- AI and Machine Learning: CNNs, XGBoost, Random Forests, SVR, LLM fine-tuning for degradation forecasting  
+- Electrochemical Modeling: Capacity fade modeling, state-of-health prediction, COMSOL-assisted simulations  
+- Data Analysis: Robust scaling, cross-validation, uncertainty-aware predictions  
+- System Deployment: Feasibility studies, financial modeling for battery production and grid integration  
+
+### Education
+
+- Ph.D. in Electrochemical Energy Systems, [University of Technology Sydney], [2021 - 2024]  
+- M.S. in Materials Science / Energy Storage, [Shanghai Jiao Tong University], [2024 - 2017]  
+- B.S. in [Chemistry], [Anhui University], [2008 - 2012]  
+
+### Honors & Recognition
+
+- National Research Grant / Fellowship  
+- Best Paper Award  
+- Industry Collaboration Recognition  
+
+### Contact
+
+- Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)  
+- LinkedIn: [Tao (Toby) Huang](www.linkedin.com/in/toby-huang-083b441a4)  
+- GitHub: [taohuangstudio](https://github.com/taohuangstudio)
