@@ -40,8 +40,13 @@ My outputs include model frameworks, deployment strategies, and tools shared wit
 - **B.S.** in Chemistry, Anhui University, 2008 - 2012 
 
 ## Contact
+
 <div class="contact-box">
-Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)
-LinkedIn: [Tao (Toby) Huang](https://www.linkedin.com/in/toby-huang-083b441a4)
-GitHub: [taohuangstudio](https://github.com/taohuangstudio)
+  Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)
+  
+  LinkedIn: [Tao (Toby) Huang](https://www.linkedin.com/in/toby-huang-083b441a4) (https://www.linkedin.com/in/toby-huang-083b441a4)
+  
+  GitHub: [taohuangstudio](https://github.com/taohuangstudio) (https://github.com/taohuangstudio)
+  
+  Personal web: [toby-huang.com](https://toby-huang.com)
 </div>
