@@ -5,11 +5,8 @@ permalink: /about.html
 description: About Tao Huang — AI-driven battery research and energy storage.
 ---
 
-<div style="display: flex; justify-content: center; margin-bottom: 1rem;">
-  <div style="text-align: center;">
-    <img src="https://toby-huang.com/wp-content/uploads/DSC02915-edited.jpeg" alt="Tao Huang" class="profile-photo" />
-    <div style="margin-top: 8px; font-weight: 600; font-size: 1.1rem;">Tao Huang</div>
-  </div>
+<div style="display:flex; justify-content:flex-start; margin-bottom:1rem;">
+  <img src="https://toby-huang.com/wp-content/uploads/DSC02915-edited.jpeg" alt="Tao Huang" class="profile-photo-large" />
 </div>
 
 I lead a cross-disciplinary research and deployment program that tightly couples electrochemical insight, artificial intelligence, and practical system implementation to accelerate scalable energy storage in emerging markets. My research interests lie at the intersection of AI-enhanced battery degradation forecasting, data-physics hybrid modeling, and large-scale energy infrastructure deployment. I develop methodologies that extract maximal predictive power from limited early-cycle data to forecast specific capacity trajectories and long-term performance, while integrating large language models as generative and interpretive tools to explore, propose, and parameterize novel electrode and cell geometries.
