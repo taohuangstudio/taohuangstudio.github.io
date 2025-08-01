@@ -10,18 +10,20 @@
       --text:#222;
       --muted:#555;
       --link:#0366d6;
-      --border:#ddd;
+      --border:#dcdfe4;
       --radius:6px;
-      --bg:#f9f9f9;
+      --bg:#ffffff;
+      --header-bg:#f5f6f8;
+      --section-bg:#f9f9fb;
+      --contact-bg:#eef1f5;
     }
     *{box-sizing:border-box;}
     body {
       margin:0;
       font-family: system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,sans-serif;
-      background: #fff;
+      background: var(--bg);
       color: var(--text);
       line-height:1.5;
-      padding:0;
     }
     a {color: var(--link); text-decoration:none;}
     a:hover {text-decoration:underline;}
@@ -35,6 +37,7 @@
       align-items: baseline;
       border-bottom:1px solid var(--border);
       gap:0.5rem;
+      background: var(--header-bg);
     }
     .brand {
       display:flex;
@@ -59,6 +62,7 @@
       font-weight:500;
       position: relative;
       padding:2px 0;
+      color: var(--text);
     }
     .nav a[aria-current="page"]::after {
       content: "";
@@ -77,6 +81,21 @@
       padding:1.25rem 1.5rem 3rem;
     }
     h1 { margin-top:0; }
+    h2 {
+      margin-top:2rem;
+      font-size:1.25rem;
+      border-bottom:2px solid var(--border);
+      padding-bottom:6px;
+    }
+    .small { font-size:0.85rem; color: var(--muted); }
+    .inline-list { padding-left:1rem; }
+    .contact-box {
+      background: var(--contact-bg);
+      padding: 1rem 1.25rem;
+      border-radius: 6px;
+      margin-top: 1.5rem;
+      border: 1px solid rgba(220,223,228,0.8);
+    }
     footer {
       max-width: 900px;
       margin:2rem auto 1rem;
@@ -89,16 +108,12 @@
       justify-content: space-between;
       gap:0.5rem;
     }
-    .small {
-      font-size:0.85rem;
-    }
-    .inline-list { padding-left:1rem; }
   </style>
 </head>
 <body>
   <header>
     <div class="brand">
-      <h1><a href="/">Tao Huang Studio</a></h1>
+      <h1><a href="/" style="color:inherit; text-decoration:none;">Tao Huang Studio</a></h1>
       <div class="tagline">Battery & Energy Storage Researcher · AI Modeling</div>
     </div>
     <nav class="nav" aria-label="Main navigation">
@@ -106,7 +121,7 @@
       <a href="/projects.html" {% if page.url == '/projects.html' or page.url == '/projects/' %}aria-current="page"{% endif %}>Projects</a>
       <a href="/publications.html" {% if page.url == '/publications.html' %}aria-current="page"{% endif %}>Publications</a>
       <a href="/more.html" {% if page.url == '/more.html' %}aria-current="page"{% endif %}>More</a>
-      <!-- future Group link; unhide by removing .hidden class -->
+      <!-- future Group link hidden now -->
       <a href="/group.html" class="hidden">Group</a>
     </nav>
   </header>
@@ -116,8 +131,8 @@
   </main>
 
   <footer>
-    <div>
-      <span class="small">Tao Huang Studio</span> · <span class="small">AI & Energy</span>
+    <div class="small">
+      Tao Huang Studio · AI & Energy
     </div>
     <div class="small">
       © <span id="year"></span> Tao Huang. Built with GitHub Pages.
