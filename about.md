@@ -41,7 +41,7 @@ My outputs include model frameworks, deployment strategies, and tools shared wit
 
 ## Contact
 <div class="contact-box">
-- Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)  
-- LinkedIn: [Tao (Toby) Huang](https://www.linkedin.com/in/toby-huang-083b441a4)  
-- GitHub: [taohuangstudio](https://github.com/taohuangstudio)
+Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)
+LinkedIn: [Tao (Toby) Huang](https://www.linkedin.com/in/toby-huang-083b441a4)
+GitHub: [taohuangstudio](https://github.com/taohuangstudio)
 </div>
