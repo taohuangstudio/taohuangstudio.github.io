@@ -39,14 +39,21 @@ My outputs include model frameworks, deployment strategies, and tools shared wit
 - **M.S.** in Materials Science / Energy Storage, Shanghai Jiao Tong University, 2024 - 2017
 - **B.S.** in Chemistry, Anhui University, 2008 - 2012 
 
+<div class="contact-box">
 ## Contact
 
-<div class="contact-box">
-  Email: [toby@toby-huang.com](mailto:toby@toby-huang.com)
   
-  LinkedIn: [Tao (Toby) Huang](https://www.linkedin.com/in/toby-huang-083b441a4) (https://www.linkedin.com/in/toby-huang-083b441a4)
-  
-  GitHub: [taohuangstudio](https://github.com/taohuangstudio) (https://github.com/taohuangstudio)
-  
-  Personal web: [toby-huang.com](https://toby-huang.com)
+  <p>Email: <a href="mailto:toby@toby-huang.com">toby@toby-huang.com</a></p>
+  <p>
+    LinkedIn: <a href="https://www.linkedin.com/in/toby-huang-083b441a4">Tao (Toby) Huang</a>
+    (<a href="https://www.linkedin.com/in/toby-huang-083b441a4">https://www.linkedin.com/in/toby-huang-083b441a4</a>)
+  </p>
+  <p>
+    GitHub: <a href="https://github.com/taohuangstudio">taohuangstudio</a>
+    (<a href="https://github.com/taohuangstudio">https://github.com/taohuangstudio</a>)
+  </p>
+  <p>
+    Personal web: <a href="https://toby-huang.com">toby-huang.com</a>
+    (<a href="https://toby-huang.com">https://toby-huang.com</a>)
+  </p>
 </div>
